@@ -18,6 +18,9 @@ nav {
   justify-content: space-between;
   align-items: center;
   color: #1a1a1a;
+  position:fixed;
+  background-color: #fff;
+  margin-top:0px;
 }
 nav img {
   height: 17%;
