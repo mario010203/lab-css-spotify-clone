@@ -34,8 +34,7 @@ nav li {
   margin: 15px;
 }
 header {
-  background: url("/home/mario/Documents/ironhack/Exercises/Excercise5/lab-css-spotify-clone/starter-code/images/landing.jpg")
-    no-repeat center center;
+  background: url("../images/landing.jpg") no-repeat center center;
   background-size: cover;
   height: 700px;
   width: 100%;
@@ -117,13 +116,10 @@ footer {
   align-items: center;
   align-content: center;
   justify-content: center;
-  
 }
 
-footer .foot{
+footer .foot {
   background-color: #00b172;
   height: 800px;
   width: 95%;
-  
 }
-
